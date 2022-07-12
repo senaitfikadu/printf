@@ -1,9 +1,3 @@
-/*
-* Worked by ALX Student
-* Mihretu and
-* Senat
-*/
-
 #include "main.h"
 /**
 * print_unsig - function that prints unsigned number
