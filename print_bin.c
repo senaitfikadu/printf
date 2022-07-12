@@ -1,3 +1,9 @@
+/*
+* Worked by ALX Student
+* Mihretu and
+* Senat
+*/
+
 #include <stdarg.h>
 #include <stdio.h>
 #include "main.h"
