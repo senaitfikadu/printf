@@ -28,5 +28,4 @@ typedef struct code_format
 } code_f;
 
 
-
 #endif /* MAIN_H */
