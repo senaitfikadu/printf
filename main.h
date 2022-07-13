@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <stdarg.h>
 #include <stddef.h>
+#include <limits.h>
+#include <unistd.h>
 
 /**
  * struct flags - struct containing flags to "turn on"
